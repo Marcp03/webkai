@@ -1,0 +1,2 @@
+// Código JavaScript para interactividad
+
